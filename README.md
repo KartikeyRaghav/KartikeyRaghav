@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NGINX, Redux**
 
-- 📫 How to reach me **kartikeyraghav2006@gmail.com**
+- 📫 How to reach me **kartikeyraghav2006@gmail.com** **sse240021008@iiti.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
