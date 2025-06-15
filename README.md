@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Kartikey Raghav currently studying at IIT Indore. I love to contribute to create projects. Very much interested in research opppurtunities.<br>I am currently working on full-stack project developments along with DevOps.
+I am Kartikey Raghav currently studying at IIT Indore. I love to create projects. Very much interested in research opppurtunities.<br>I am currently working on full-stack project developments along with DevOps.
 
 
 ## 🌐 Socials:
